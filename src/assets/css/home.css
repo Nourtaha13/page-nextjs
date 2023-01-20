@@ -138,6 +138,7 @@ article.hero .container{
    font-size: .9rem;
    display: inline-block;
    width: 30%;
+   text-align: center;
 }
 .hero .hero-img{
    flex: 1;
