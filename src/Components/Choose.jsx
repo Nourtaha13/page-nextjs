@@ -1,8 +1,8 @@
 
 import React from "react";
-// import { BsFillDisplayFill } from "react-icons/bs";
+import { BsFillDisplayFill } from "react-icons/bs";
 
-function Choose() {
+function Chooses() {
    return (
       <article className="choose" data-aos="fade-right">
          <div className="container">
@@ -10,7 +10,7 @@ function Choose() {
             <main className="cards">
                <section className="card" data-aos="fade-right">
                   <div className="circle">
-//                      <BsFillDisplayFill />
+                     <BsFillDisplayFill />
                   </div>
                   <h3>98% Success Rate</h3>
                   <p>
@@ -22,7 +22,7 @@ function Choose() {
                </section>
                <section className="card" data-aos="fade-right">
                   <div className="circle">
-//                      <BsFillDisplayFill />
+                     <BsFillDisplayFill />
                   </div>
                   <h3>98% Success Rate</h3>
                   <p>
@@ -34,7 +34,7 @@ function Choose() {
                </section>
                <section className="card" data-aos="fade-left">
                   <div className="circle">
-//                      <BsFillDisplayFill />
+                     <BsFillDisplayFill />
                   </div>
                   <h3>98% Success Rate</h3>
                   <p>
@@ -46,7 +46,7 @@ function Choose() {
                </section>
                <section className="card" data-aos="fade-left">
                   <div className="circle">
-//                      <BsFillDisplayFill />
+                     <BsFillDisplayFill />
                   </div>
                   <h3>98% Success Rate</h3>
                   <p>
@@ -58,7 +58,7 @@ function Choose() {
                </section>
                <section className="card" data-aos="fade-left">
                   <div className="circle">
-//                      <BsFillDisplayFill />
+                     <BsFillDisplayFill />
                   </div>
                   <h3>98% Success Rate</h3>
                   <p>
@@ -74,4 +74,4 @@ function Choose() {
    );
 }
 
-export default Choose;
+export default Chooses;
