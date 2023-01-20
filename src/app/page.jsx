@@ -8,7 +8,7 @@ import Practices from '../Components/Practices'
 import OurTeam from '../Components/OurTeam'
 import Faq from '../Components/Faq'
 import Subscribe from '../Components/Subscribe'
-import Footers from '../Components/footers'
+import FooterPage from '../Components/footerPage'
 import AOS from "aos"
 import "aos/dist/aos.css"
 
@@ -28,7 +28,7 @@ export default function Home () {
       <OurTeam />
       <Faq />
       <Subscribe />
-       <Footers />
+       <FooterPage />
     </>
   )
 }
