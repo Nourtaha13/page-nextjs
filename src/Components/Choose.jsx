@@ -1,3 +1,4 @@
+'use client'
 import React from "react";
 import { BsFillDisplayFill } from "react-icons/bs";
 
