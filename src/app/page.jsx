@@ -8,7 +8,7 @@ import Practices from '../Components/Practices'
 import OurTeam from '../Components/OurTeam'
 import Faq from '../Components/Faq'
 import Subscribe from '../Components/Subscribe'
-import FooterPage from '../Components/footerPage'
+import FooterPage from '../Components/FooterPage'
 import AOS from "aos"
 import "aos/dist/aos.css"
 
