@@ -3,7 +3,7 @@ import React, { useEffect } from 'react'
 import Navbar from '../Components/Navbar'
 import Hero from '../Components/Hero'
 import Ourself from '../Components/Ourself'
-// import Choose from '../Components/choose'
+import Choose from '../Components/choose'
 import Practices from '../Components/Practices'
 import OurTeam from '../Components/OurTeam'
 import Faq from '../Components/Faq'
@@ -23,6 +23,7 @@ export default function Home () {
       <Navbar />
       <Hero />
       <Ourself />
+      <Choose />
       <Practices />
       <OurTeam />
       <Faq />
