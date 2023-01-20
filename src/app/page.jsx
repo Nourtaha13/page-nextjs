@@ -23,12 +23,12 @@ export default function Home () {
       <Navbar />
       <Hero />
       <Ourself />
-      <Choose />
+//       <Choose />
       <Practices />
       <OurTeam />
       <Faq />
       <Subscribe />
-      <Footer />
+//       <Footer />
     </>
   )
 }
