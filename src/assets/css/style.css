@@ -40,6 +40,10 @@ a {
 li{
   list-style: none;
 }
+button{
+    border: none;
+    outline: none;
+}
 .container{
   padding: 10px 15px;
   margin: 0 auto;
